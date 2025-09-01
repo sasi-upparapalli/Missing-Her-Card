@@ -1,11 +1,7 @@
 # 💌 Miss You Card – A 3D Animated Digital Card
 
 Bring your feelings to life with this interactive, animated digital “miss you” card. Perfect for sending a heartfelt message to someone special!
-
-![Preview of the digital thank you card](https://via.placeholder.com/300x200)  
-*(Replace with a screenshot of your project after uploading to GitHub.)*
-
----
+[![Screenshot-2025-09-01-205638.png](https://i.postimg.cc/02DKtT1P/Screenshot-2025-09-01-205638.png)](https://postimg.cc/w7xBMbBG)
 
 ## ✨ Features
 
